@@ -1,7 +1,7 @@
 ### <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey, I'm Nikita</p>
 
 <p align="center"> 
-  <a href="https://github.com/dmitrich0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Ural+Federal+University+Student;Frontend+%26+Backend" alt="Typing SVG"/></a>
+  <a href="https://github.com/dmitrich0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Angular%26+Frontend+%26+Developer" alt="Typing SVG"/></a>
 
 <br>
 
@@ -10,15 +10,11 @@
 ```javascript
 const dmitrich = {
    name: "Nikita",
-   age: 19,
-   code: [HTML5, JS, TS, CSS, SCSS, PYTHON],
+   age: 22,
+   code: [ANGULAR, HTML5, JS, TS, CSS, SCSS],
    technologies: {
-       frontend: [
-           JS: {"React", "Angular"}
-       ],
-       backend: [
-           JS: {"NestJS"}
-       ]
+       frontend: ["Angular"],
+       backend: ["NestJS"]
 };
 ```
 
