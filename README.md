@@ -1,7 +1,7 @@
 ### <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey, I'm Nikita</p>
 
 <p align="center"> 
-  <a href="https://github.com/dmitrich0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Angular%26+Frontend+%26+Developer" alt="Typing SVG"/></a>
+  <a href="https://github.com/dmitrich0"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Angular+Frontend+Developer" alt="Typing SVG"/></a>
 
 <br>
 
